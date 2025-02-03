@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saad-jebbour" alt="saad-jebbour" /></a> </p>
 
-- 🌱 I’m currently learning **C++,Javascript**
+- 🌱 I’m currently learning **C++,Javascript.**
 
 - 💬 Ask me about **Web development basics, programming logic, and debugging.**
 
