@@ -25,13 +25,6 @@
 - 📫 Reach me at: <a href="mailto:saad.jebbour25@gmail.com">saad.jebbour25@gmail.com</a>  
 <br>
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=saad-jebbour&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
-
 <!-- Social Links -->
 <div align="center">
   <a href="mailto:saad.jebbour25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
