@@ -11,7 +11,7 @@
 <br>
 <img align="right" width=250px alt="Unicorn" src="tenor.gif"/>
 
-🎓 Computer Science student at **Ibn Zohr University, Agadir**  
+🎓 Computer Science student at **National School of Applied Sciences, Agadir**  
 📚 Specializing in **Software Engineering**  
 🚀 Currently a beginner, exploring new projects  
 🎯 Open to collaboration & learning  
