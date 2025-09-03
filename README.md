@@ -98,14 +98,30 @@
     <img src="https://github-readme-stats.vercel.app/api?username=saad-jebbour&theme=nightowl&show_icons=true&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad-jebbour&theme=nightowl&hide_border=false" alt="Saad Jebbour streak" />
 </td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saad-jebbour&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
+
 </tr>
 </table>
 </p>
 <br>
 
+<!-- Most Used Languages -->
+<h3 align="center">Most Used Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+
+<br>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saad-jebbour&theme=nightowl&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 ## 🎯 Current Focus
 
 - 🌱 Learning **Java** & **Object-Oriented Programming**
